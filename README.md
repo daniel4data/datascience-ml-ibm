@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reto de Clustering - Segmentación de empleados
 
 ## 🎯 Objetivo
@@ -17,3 +18,34 @@ A través de un análisis de segmentación usando K-Means (con k = 4), agrupamos
 Los resultados muestran que, aunque la variación entre tasas promedio de deserción por grupo es moderada (entre 18.3% y 19.9%), es posible identificar patrones:
 * El grupo 2, que presentó el mayor sueldo promedio, también mostró la mayor tasa de deserción. Esto sugiere que el salario por sí solo no asegura que el individuo no deserte
 * El grupo 3, con sueldos moderados y más años de servicio, presentó la menor tasa de deserción. Es posible que exista una mayor fidelidad asociada a la antigüedad o a otros factores no financieros como el balance vida-trabajo
+=======
+# Proyecto de Ciencia de Datos – Certificación IBM / Tec de Monterrey
+
+Este repositorio documenta el avance y resolución de los módulos prácticos y retos del Certificado de Competencias en Machine Learning del Tecnológico de Monterrey (feb2025-ago2025), con respaldo de IBM SkillsBuild.
+
+## Estructura
+
+Cada carpeta corresponde a una lección o reto. En cada una se documenta:
+
+- Objetivo de aprendizaje.
+- Descripción del problema.
+- Código paso a paso con explicaciones.
+- Resultados obtenidos y visualizaciones.
+- Conclusiones y reflexiones.
+
+## Progreso actual
+
+- [x] Ingeniería de características
+- [x] Lección 2 – Agrupamiento con K-Means
+- [ ] Reto de Agrupamiento
+- [ ] Aprendizaje Supervisado
+- [ ] AutoML
+- [ ] PySpark
+- [ ] Visualización ML
+
+## Autor
+
+Daniel Capitán  
+Consultor en Modelación y Análisis Financiero  
+Apasionado por el análisis y la ciencia de datos, visualización y modelos de riesgo.
+>>>>>>> e419c7d9e8cf4f9085ee03cfd406397ac75b70a1
