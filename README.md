@@ -37,11 +37,11 @@ Cada carpeta corresponde a una lección o reto. En cada una se documenta:
 
 - [x] Ingeniería de características
 - [x] Lección 2 – Agrupamiento con K-Means
-- [ ] Reto de Agrupamiento
-- [ ] Aprendizaje Supervisado
+- [x] Reto de Agrupamiento
+- [x] Aprendizaje Supervisado
 - [ ] AutoML
 - [ ] PySpark
-- [ ] Visualización ML
+- [x] Visualización ML
 
 ## Autor
 
